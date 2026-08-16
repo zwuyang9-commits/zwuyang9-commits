@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
+  <title id="title">小板子，大用途</title>
+  <desc id="desc">手绘风格的工作台，上面放着一台小电脑、终端窗口和连接线。</desc>
+
+  <rect width="1200" height="360" rx="28" fill="#f4f1e8"/>
+  <path d="M35 291 C256 280 425 300 622 289 S970 284 1168 293" fill="none" stroke="#25313b" stroke-width="4" stroke-linecap="round" opacity=".82"/>
+  <path d="M48 298 C285 306 504 298 706 303 S1020 309 1152 300" fill="none" stroke="#d58962" stroke-width="2.5" stroke-linecap="round" opacity=".65"/>
+
+  <!-- terminal note -->
+  <g transform="rotate(-1 260 155)">
+    <rect x="70" y="61" width="380" height="191" rx="14" fill="#fffdf7" stroke="#25313b" stroke-width="4"/>
+    <path d="M71 99 C171 96 316 102 449 98" fill="none" stroke="#25313b" stroke-width="3"/>
+    <circle cx="93" cy="80" r="5" fill="#d58962"/>
+    <circle cx="111" cy="80" r="5" fill="#e1b45f"/>
+    <circle cx="129" cy="80" r="5" fill="#6c9276"/>
+    <path d="M101 127 l13 10 -13 10" fill="none" stroke="#d58962" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M128 147 h98 M101 176 h191 M101 201 h138 M101 226 h225" fill="none" stroke="#50616c" stroke-width="5" stroke-linecap="round" opacity=".88"/>
+    <path d="M242 147 h62 M307 176 h73 M254 201 h94" fill="none" stroke="#6c9276" stroke-width="5" stroke-linecap="round"/>
+  </g>
+
+  <!-- single-board computer -->
+  <g transform="rotate(1.5 760 187)">
+    <path d="M609 94 Q610 80 625 81 L873 81 Q889 82 887 99 L884 270 Q883 283 868 284 L622 282 Q607 281 608 266 Z" fill="#7ea087" stroke="#25313b" stroke-width="5" stroke-linejoin="round"/>
+    <circle cx="635" cy="108" r="10" fill="#f4f1e8" stroke="#25313b" stroke-width="3"/>
+    <circle cx="858" cy="108" r="10" fill="#f4f1e8" stroke="#25313b" stroke-width="3"/>
+    <circle cx="635" cy="257" r="10" fill="#f4f1e8" stroke="#25313b" stroke-width="3"/>
+    <circle cx="858" cy="257" r="10" fill="#f4f1e8" stroke="#25313b" stroke-width="3"/>
+    <rect x="691" y="139" width="111" height="91" rx="9" fill="#34434b" stroke="#25313b" stroke-width="4"/>
+    <path d="M715 157 h63 M715 174 h49 M715 194 h70 M715 211 h43" stroke="#f4f1e8" stroke-width="4" stroke-linecap="round" opacity=".8"/>
+    <g fill="#e4bd68" stroke="#25313b" stroke-width="2">
+      <circle cx="651" cy="139" r="6"/><circle cx="651" cy="165" r="6"/><circle cx="651" cy="191" r="6"/><circle cx="651" cy="217" r="6"/>
+      <circle cx="841" cy="139" r="6"/><circle cx="841" cy="165" r="6"/><circle cx="841" cy="191" r="6"/><circle cx="841" cy="217" r="6"/>
+    </g>
+    <path d="M609 123 h-35 v55 h34 M886 135 h38 v61 h-38 M714 283 v23 h75 v-23" fill="#d9dbd2" stroke="#25313b" stroke-width="4" stroke-linejoin="round"/>
+    <circle cx="825" cy="250" r="6" fill="#e8d66d" stroke="#25313b" stroke-width="2"/>
+  </g>
+
+  <!-- cable and small annotations -->
+  <path d="M923 197 C1002 198 984 255 1044 253 C1093 252 1087 200 1138 202" fill="none" stroke="#25313b" stroke-width="5" stroke-linecap="round"/>
+  <path d="M1136 188 v29 M1150 191 v23" stroke="#25313b" stroke-width="5" stroke-linecap="round"/>
+  <path d="M968 94 q17 -17 36 0 M978 110 q8 -8 17 0" fill="none" stroke="#d58962" stroke-width="4" stroke-linecap="round"/>
+  <path d="M522 82 q16 9 29 -4 M530 68 q10 5 17 -3" fill="none" stroke="#e1b45f" stroke-width="4" stroke-linecap="round"/>
+
+  <text x="985" y="71" fill="#25313b" font-size="25" font-family="'Segoe Print','KaiTi','Kaiti SC',cursive" transform="rotate(2 985 71)">小板子，大用途</text>
+  <text x="945" y="326" fill="#66737b" font-size="17" letter-spacing="2" font-family="'Segoe UI','PingFang SC','Microsoft YaHei',sans-serif">树莓派 · 离线 AI · 中文实践</text>
+</svg>
