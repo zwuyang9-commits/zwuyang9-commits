@@ -18,7 +18,7 @@
 
 最近补了 DHT22/BME280 环境采集、本地告警控制台和能源调度的几个边界问题。代码先把接口和
 失败路径留清楚，真机上没有跑过的部分也会直接写明。当前版本见
-[`v0.2.0`](https://github.com/zwuyang9-commits/raspberry-pi-mastery-cn/releases/tag/v0.2.0)。
+[`v0.2.1`](https://github.com/zwuyang9-commits/raspberry-pi-mastery-cn/releases/tag/v0.2.1)。
 
 `Raspberry Pi` · `Linux` · `离线 AI` · `中文教程` · `可复现实践`
 
